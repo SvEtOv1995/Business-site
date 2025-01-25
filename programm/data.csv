@@ -1,0 +1,11 @@
+user_id,test_group,converted,total_ads,session_duration,time_spent,pages_viewed
+1,ad,True,5,12,30,10
+2,psa,False,3,10,20,7
+3,ad,True,6,14,32,12
+4,psa,True,2,8,18,6
+5,ad,False,4,13,25,9
+6,psa,False,3,9,19,8
+7,ad,True,7,15,35,14
+8,psa,True,1,7,15,5
+9,ad,True,6,11,28,11
+10,psa,False,5,10,22,7
